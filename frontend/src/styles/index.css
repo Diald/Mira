@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+:root {
+  color: #17202a;
+  background: #f6f7f9;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+.scrollbar-thin {
+  scrollbar-width: thin;
+}
