@@ -1,6 +1,6 @@
-# NotebookLLM
+# Mira
 
-NotebookLLM is a conversation-first AI assistant where each notebook has isolated chat history, memory, and auto-generated notes.
+Mira is a conversation-first AI assistant where each notebook has isolated chat history, memory, and auto-generated notes.
 
 ## Stack
 
